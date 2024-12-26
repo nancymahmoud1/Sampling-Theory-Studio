@@ -121,6 +121,7 @@ This application is tailored for educational purposes, providing a hands-on expe
 ## System Requirements
 - **OS:** Windows/Linux/MacOS
 - **Python Dependencies:** `numpy`, `matplotlib`, `scipy`, `PyQt5` (or any GUI library used).
+- **Working on Python version: **3.9 . 
 
 ---
 
